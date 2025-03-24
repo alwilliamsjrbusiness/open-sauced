@@ -10,7 +10,7 @@ function Hero({handleLogIn}) {
       <Wrapper>
         <Card>
           <FlexColumnCenter>
-            <h1>Open Sauced Dashboard with pizza</h1>
+            <h1>Open Sauced Dashboard with pizzas</h1>
             <p>Login with GitHub to start tracking open source projects.</p>
             <br />
             <FlexCenter>
